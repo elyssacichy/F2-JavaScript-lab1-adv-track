@@ -14,3 +14,6 @@ comments. Be sure to read everything. Run lab.js with `node lab1.js`.
 
 #### Resources and Collaborators
 
+I used W3Schools to read about array.pop(), array.push(), array.split() and array.join().
+
+I looked up the Math.random() function on Mozilla Developer Network.
